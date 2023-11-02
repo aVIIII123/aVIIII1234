@@ -1,4 +1,4 @@
-![Header](./Aviralimg.png)
+![Masterhead](https://github.com/aVIIII123/aVIIII1234/assets/86101255/9332f3ff-1dde-4827-9cba-58cf31f3a5d1)
 <h1 align="center">Hi 👋, I'm Aviral Srivastava</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdtNWdrNXl4MTBqcjJvZXR3czhwMWJ3cDR0OW5yMDI5OTI3aTBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
